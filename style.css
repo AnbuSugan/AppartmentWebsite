@@ -1,0 +1,185 @@
+.logo h1 {
+    font-family: 'Delicious Handrawn', cursive;
+      }
+.menu ul li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    padding-left: 20px;
+   
+}
+.logo{
+    width: 7%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 2%;
+    
+}
+.menu{
+   width: 90%;
+    float: right;
+    margin-top: 3%;
+    
+}
+.header{
+    background-color: white;
+    display: table;
+    width: 100%;
+}
+#main{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 25% ;
+}
+.menu ul li:hover{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 25%;
+    cursor: pointer;
+    transition: 2s;
+}
+.banner{
+    background-image: url(Images/rohini-nakshatra.png);
+    background-size: cover;
+    height: 750px;
+    filter: brightness(50%);
+}
+.banner_Text{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.fixed button{
+    padding: 15px;
+    position: fixed;
+    top: 90%;
+    left: 42%;
+    width: 20%;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+#move{
+    margin-left: 20%;
+
+}
+#bhk{
+   padding-left: 15%; 
+}
+
+p{
+    font-family: roboto,sans-serif;
+    margin-left: 15px;
+}
+#view{
+    background-color: blue;
+    padding: 10px;
+    margin-left: 5%;
+    
+}
+#enquire{
+    background-color: blue;
+    padding: 10px;
+    margin-left:  5%;
+
+}
+.colours{
+    width: 48%;
+    float: left;
+    border-right: 2px solid red;
+}
+.Nakshatra{
+    width: 48%;
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.img{
+    padding-top: 5%;
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+  }
+.para{
+    width: 40%;
+    float: right;
+    margin-right: 10%;
+
+}
+.city{
+    padding-top: 5%;
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+
+}
+.overviewimg{
+    padding-top: 3%;
+    width: 40%;
+    float: right;
+    margin-left: 10%;
+
+}
+.adimg{
+    padding-top: 3%;
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+}
+.adpara{
+    padding-top: 5%;
+    width: 40%;
+    float: right;
+    margin-left: 10%;
+    text-align: justify;
+
+}
+.adpara p{
+    text-align: justify;
+}
+.loimg{
+    padding-top: 3%;
+    width: 40%;
+    float: right;
+    margin-left: 10%;
+
+}
+.lopara{
+    padding-top: 5%;
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+
+}
+.Goodimg{
+    padding-top: 3%;
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+}
+.Goodpara{
+    padding-top: 5%;
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+}
+.Tipimg{
+    padding-top: 3%;
+    width: 30%;
+    float: right;
+    margin-left: 5%;
+}
+.Tippara{
+    padding-top: 5%;
+    width: 60%;
+    float: left;
+    margin-left: 5%;
+}
